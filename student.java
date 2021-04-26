@@ -1,7 +1,7 @@
 class student
 
 {
-void sum
+void add
 ()
 {
 }}
