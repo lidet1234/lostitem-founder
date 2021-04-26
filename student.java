@@ -1,0 +1,7 @@
+class student
+
+{
+void sum
+()
+{
+}}
