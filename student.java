@@ -4,5 +4,5 @@ class student
 void add
 ()
 {
-  ahhhhhh!!!!
+  mutu
 }}
